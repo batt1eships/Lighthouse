@@ -1,0 +1,6 @@
+[submodule "packages/repohistory-lighthouse"]
+	path = packages/repohistory-lighthouse
+	url = https://github.com/batt1eships/repohistory-lighthouse.git
+[submodule "packages/Stats-lighthouse"]
+	path = packages/Stats-lighthouse
+	url = https://github.com/batt1eships/Stats-lighthouse.git
